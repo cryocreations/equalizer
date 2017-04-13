@@ -27,7 +27,7 @@ This plugin requires jQuery 1.7+
 
 Add the script after the jQuery library. Adding this code before the end of the `<body>` tag is preferred.
 
-```
+```html
 <script src="equalizer.min.js"></script>
 ```
 
