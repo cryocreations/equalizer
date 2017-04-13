@@ -27,7 +27,7 @@ This plugin requires jQuery 1.7+
 
 Add the script after the jQuery library. Adding this code before the end of the `<body>` tag is preferred.
 
-```js
+```
 <script src="equalizer.min.js"></script>
 ```
 
@@ -153,8 +153,8 @@ Below are the available settings and their default values that get passed to the
 
 Setting | Type | Default | Returns | Description
 --- | --- | --- | --- | ---
-**onEqualize** | `Function` | `null | `Object` | This function will fire every time the targets have increased or decreased height. This occurs when the viewport width or device orientation changes.
-**onUnequalize** | `Function` | `null | `Object` | This function will fire when the the unequilize value has been met. *Note: this is dependent on the "unequalize" setting.*
+**onEqualize** | `Function` | `null` | `Object` | This function will fire every time the targets have increased or decreased height. This occurs when the viewport width or device orientation changes.
+**onUnequalize** | `Function` | `null` | `Object` | This function will fire when the the unequilize value has been met. *Note: this is dependent on the "unequalize" setting.*
 
 
 ## Callback Examples
