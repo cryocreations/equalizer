@@ -196,9 +196,9 @@ $(document).ready(function(){
 
 For the versions available, see the [tags on this repository](https://github.com/cryocreations/equalizer/tags).
 
-## Authors
+## Author
 
-* **[Matt Frazee](https://www.mattfrazee.com/)** | [GitHub](https://www.github.com/cryocreations) | [Twitter](https://www.twitter.com/cryocreations) | [Stack Overflow](http://stackoverflow.com/users/1650605/matt-frazee)
+**[Matt Frazee](https://www.mattfrazee.com/)** | [GitHub](https://www.github.com/cryocreations) | [Twitter](https://www.twitter.com/cryocreations) | [Stack Overflow](http://stackoverflow.com/users/1650605/matt-frazee)
 
 See also the list of [contributors](https://github.com/cryocreations/equalizer/contributors) who participated in this project.
 
